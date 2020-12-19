@@ -33,7 +33,7 @@ const Header = () => {
                     >
             <MenuIcon /> 
           </IconButton>
-            <Typography variant="h5" className={classes.title}>SpaceX App</Typography>
+            <Typography variant="h5" className={classes.title}>Shopping Basket</Typography>
                    
                         <Button variant="contained"
                          color="secondary"
