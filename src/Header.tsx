@@ -44,6 +44,7 @@ const Header = () => {
                     
                      <Button variant="contained" color="secondary"
                         style={{marginLeft:"20px"}}
+                        className="about"
                        
                      >About</Button >
                 
